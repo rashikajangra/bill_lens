@@ -1,4 +1,4 @@
-# bill_lens
+# Bill Lens
 
 BillLens is a lightweight **bill/invoice data extraction tool** built with Python and Streamlit. It extracts tabular data from PDF bills, displays the extracted records in an editable table, and allows users to export the corrected data as an Excel file.
 
